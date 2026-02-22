@@ -1,16 +1,25 @@
-## Hi there 👋
+### Software Engineer | University Lecturer
 
-<!--
-**AmilkarDominguez/AmilkarDominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full-Stack Developer** with over 10 years of experience building scalable enterprise solutions. I specialize in high-performance architectures, blending deep backend expertise with polished frontend experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Expertise
+
+- **Backend:** Java (Spring Boot, Spring AI), PHP (Laravel), Node js (JavaScript).
+- **Frontend:** Angular (Expert), TypeScript, React, Astro.
+- **Architecture:** Domain-Driven Design (DDD), Hexagonal Architecture, Microservices.
+- **AI & Data:** Vector Search (Elasticsearch), Embeddings (Ollama/mxbai), Vector Databases.
+- **Infrastructure:** AWS, DevOps, Micro-frontends (Web Components).
+- **Design:** UI/UX Research, Figma, Adobe Suite.
+
+---
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amilkar-dominguez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amilkardominguez.com)
+
+---
+
+> "Architecting solutions today for the scalability needs of tomorrow."
